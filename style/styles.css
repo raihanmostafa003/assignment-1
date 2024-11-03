@@ -1,0 +1,32 @@
+
+
+.azeret-mono-uniquifier {
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+/* nav bar styles */
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 200px;
+    
+}
+.nav-title{
+    font-weight: 800;
+    font-size: 45px;
+} 
+nav ul li{
+    list-style: none;
+    margin-right: 50px;
+}
+/* nav li a{
+    text-decoration: none;
+
+} */
+nav ul{
+    display: flex;
+    align-items: center;
+}
